@@ -14,11 +14,11 @@ Lastly, the Hiro team is starting with the goal of establishing this live develo
 
 All meetings are recorded and archived on the [Hiro's Youtube Channel](https://www.youtube.com/c/HiroSystems).
 
-After each meeting, notes from the meetings are aded to the `/notes` folder.
+After each meeting, notes from the meetings are added to the `/notes` folder.
 
 Use the [Zoom link]() to join the live discussion.
 
-The meeting invite is published publicly. Feel free to add it to your calendar client of choice.
+The meeting invite is [published publicly](). Feel free to add it to your calendar client of choice.
 
 ## Meeting Agenda
 
