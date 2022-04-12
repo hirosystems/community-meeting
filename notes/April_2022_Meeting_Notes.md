@@ -1,0 +1,8 @@
+- Intro
+- Housekeeping
+- Announcements
+    - community announcements
+    - news/blogs
+- Hiro release updates
+- Community topics
+- Shoutouts
