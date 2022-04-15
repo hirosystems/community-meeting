@@ -13,30 +13,29 @@ Lastly, the Hiro team is starting with the goal of establishing this live develo
 
 ## Housekeeping
 
+Use the [Zoom link](https://hiropbc.zoom.us/meeting/register/tZErduugrjIrGdW6lQtcz7Osy6-J2S1dN5Vl) to join the monthly live discussion. Registration is required. Feel free to add it to your calendar client of choice.
+
+After each meeting, notes from the meetings are added to the [notes](/notes/) folder.
+
 All meetings are recorded and archived on the [Hiro's Youtube Channel](https://www.youtube.com/c/HiroSystems).
-
-After each meeting, notes from the meetings are added to the `/notes` folder.
-
-Use the [Zoom link](https://hiropbc.zoom.us/meeting/register/tZErduugrjIrGdW6lQtcz7Osy6-J2S1dN5Vl) to join the live discussion. Registration is required. Feel free to add it to your calendar client of choice.
 
 ## Meeting Agenda
 
 - Intro
-- Housekeeping
-- Announcements
-    - community announcements
-    - news/blogs
+- Smart Contract of the Month _(a brief tutorial on a smart contract of the month)_
 - Hiro release updates
 - Community topics
-- Shoutouts
+- Wrap-up / shoutouts / thanks
 
 ## Community Topics
 
-The developer community is encouraged to suggest topics for discussion on the [Monthly-Agenda]() document. Examples of such topics may include:
+The developer community is encouraged to suggest topics for discussion on the [Monthly-Agenda](https://hiropbc.notion.site/Hiro-Monthly-Developer-Meeting-Working-Document-b1c28f33bd5c4dfc9e60040066863b22) document. Examples of such topics may include:
 
 _- feedback on a product feature_
 
-_- topics that affect broader Hiro developer community_
+_- bring your blockers_
+
+_- topics that affect the broader Hiro developer community_
 
 _- community contributions, know-how's_
 
