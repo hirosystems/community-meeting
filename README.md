@@ -22,10 +22,10 @@ All meetings are recorded and archived on the [Hiro's Youtube Channel](https://w
 ## Meeting Agenda
 
 - Intro
-- Smart Contract of the Month _(a brief tutorial on a smart contract of the month)_
-- Hiro release updates
-- Community topics
-- Wrap-up / shoutouts / thanks
+- Smart Contract of the Month
+- Hiro Release Updates
+- Community Topics
+- Wrap-up / Shoutouts / Thanks
 
 ## Community Topics
 
