@@ -29,7 +29,7 @@ All meetings are recorded and archived on the [Hiro's Youtube Channel](https://w
 
 ## Community Topics
 
-The developer community is encouraged to suggest topics for discussion by opening new [GitHub issues](https://github.com/hirosystems/community-meeting/issues/new). Examples of such topics may include:
+The developer community is encouraged to suggest topics for discussion by opening new [GitHub issues](https://github.com/hirosystems/community-meeting/issues/new?assignees=&labels=&template=community_topic.md). Examples of such topics may include:
 
 _- feedback on a product feature_
 
