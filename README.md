@@ -29,7 +29,7 @@ All meetings are recorded and archived on the [Hiro's Youtube Channel](https://w
 
 ## Community Topics
 
-The developer community is encouraged to suggest topics for discussion on the [Monthly-Agenda](https://hiropbc.notion.site/Hiro-Monthly-Developer-Meeting-Working-Document-b1c28f33bd5c4dfc9e60040066863b22) document. Examples of such topics may include:
+The developer community is encouraged to suggest topics for discussion by opening new [GitHub issues](https://github.com/hirosystems/community-meeting/issues/new). Examples of such topics may include:
 
 _- feedback on a product feature_
 
