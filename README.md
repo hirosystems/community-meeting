@@ -1,7 +1,7 @@
 # Hiro Monthly Developer Meeting
 
 Hiro hosts a monthly community meeting on the fourth Thursday of the month at 16:00 UTC.
-[Convert to your local timezone.](https://everytimezone.com/)
+[Convert to your local timezone.](https://everytimezone.com/s/1f8e5e9a)
 
 ## Purpose
 
