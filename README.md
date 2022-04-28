@@ -15,14 +15,14 @@ We are open to suggestions and may course-correct the agenda/format of these mee
 
 Use the [Zoom link](https://hiropbc.zoom.us/meeting/register/tZErduugrjIrGdW6lQtcz7Osy6-J2S1dN5Vl) to join the monthly live discussion. Registration is required. Feel free to add it to your calendar client of choice.
 
-After each meeting, notes from the meetings are added to the [notes](/notes/) folder.
+After each meeting, notes from the meetings are added to the [notes](/notes/) folder. And the deck at [slides](/slides/) folder.
 
 ## Meeting Agenda
 
 - Intro
 - Smart Contract of the Month
 - Hiro Release Updates
-- Community Topic/ Monthly Deep Dive
+- Community Topic / Monthly Deep Dive
 - Wrap-up / Shoutouts / Thanks
 
 ## Community Topics
