@@ -3,6 +3,13 @@
 Hiro hosts a monthly community meeting on the fourth Thursday of the month at 16:00 UTC.
 [Convert to your local timezone.](https://everytimezone.com/s/1f8e5e9a)
 
+## Meeting Archive
+
+| #           | Date        |  Recording  |   Slides    |
+| ----------- | ----------- | ----------- | ----------- |
+| 1           | 04/28/2022  | [Youtube](https://www.youtube.com/watch?v=8UkjTgBuyuM)      | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%231%2C%20April%2028%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)       |
+| 2           | 05/26/2022  | [Youtube](https://www.youtube.com/watch?v=-dFC4Z32M5U)     | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%232%2C%20May%2026%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)        |
+
 ## Purpose
 
 At Hiro, we operate on a "developers first" principle. We deeply care for and empathize with your desire to be productive when building projects on Stacks blockchain. 
