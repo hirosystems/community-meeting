@@ -1,6 +1,6 @@
 ## May 26, 2022
 
-### [Video Recording]([url](https://youtu.be/-dFC4Z32M5U))
+[Video Recording](https://youtu.be/-dFC4Z32M5U)
 
 ### Agenda
 - Smart Contract of the Month - Blockchain Naming System (BNS)
