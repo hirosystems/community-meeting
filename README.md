@@ -9,6 +9,7 @@ Hiro hosts a monthly community meeting on the fourth Thursday of the month at 16
 | ----------- | ----------- | ----------- | ----------- |
 | 1           | 04/28/2022  | [Youtube](https://www.youtube.com/watch?v=8UkjTgBuyuM)      | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%231%2C%20April%2028%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)       |
 | 2           | 05/26/2022  | [Youtube](https://www.youtube.com/watch?v=-dFC4Z32M5U)     | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%232%2C%20May%2026%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)        |
+| 3           | 06/30/2022  |    | |
 
 ## Purpose
 
