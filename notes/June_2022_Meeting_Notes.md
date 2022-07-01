@@ -31,4 +31,7 @@ U2 - Songs of Innocence clarity smart contract on Mainnet that mints a new NFT w
 Rafael Cardenas gave a brief update on SIP-019 and updates coming to the Stacks API that will expand NFT metadata features. If you want to follow along, you can follow with [PR #1222](https://github.com/hirosystems/stacks-blockchain-api/issues/1222) in the stacks-blockchain-api repository. 
 
 ### Hyperchains Update
-We ran out of time for the full Hyperchains update, but refer to previous content to get up to date on Hyperchains progress. 
+We ran out of time for the full Hyperchains update, but refer to previous content to get up to date on Hyperchains progress: 
+- [Introducing Hyperchains by Hiro](https://www.hiro.so/blog/introducing-hyperchains-by-hiro)
+- [An Update on Hyperchains: a Scaling Solution for Stacks](https://www.hiro.so/blog/an-update-on-hyperchains-a-scaling-solution-for-stacks)
+- [Hyperchains Explained on YouTube](https://www.youtube.com/watch?v=PFPwuVCGGuI)
