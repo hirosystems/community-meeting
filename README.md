@@ -21,7 +21,7 @@ We are open to suggestions and may course-correct the agenda/format of these mee
 
 ## Housekeeping
 
-Use the [Lu.ma](https://lu.ma/7k9r9yo6) to join the monthly live discussion. Registration is required. Feel free to add it to your calendar client of choice.
+Use the [Lu.ma](https://lu.ma/hiro-monthly-dev-call) to join the monthly live discussion. Registration is required. Feel free to add it to your calendar client of choice.
 
 After each meeting, notes from the meetings are added to the [notes](/notes/) folder. And the deck at [slides](/slides/) folder.
 
