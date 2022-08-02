@@ -10,7 +10,7 @@ Hiro hosts a monthly community meeting on the fourth Thursday of the month at 16
 | 1           | 04/28/2022  | [Youtube](https://www.youtube.com/watch?v=8UkjTgBuyuM)      | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%231%2C%20April%2028%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)       | [Bitcoin Toadz](https://youtu.be/YIEkSY7gz8A) |
 | 2           | 05/26/2022  | [Youtube](https://www.youtube.com/watch?v=-dFC4Z32M5U)     | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%232%2C%20May%2026%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)        | [BNS](https://www.youtube.com/watch?v=OCLrxFVUSCg) |
 | 3           | 06/30/2022  |  [YouTube](https://youtu.be/1ISei6WPccg)  | [PDF](https://github.com/hirosystems/community-meeting/blob/d259c59fa9e6431e76b689cdc204894187551af7/slides/%233,%20June%2030%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)| [U2](https://www.youtube.com/watch?v=Va-yb_pnN1I) |
-| 4           | 07/29/2022  |  Processing for YouTube  | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%234%2C%20July%2029%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)| send-many-memo |
+| 4           | 07/29/2022  |  [YouTube](https://youtu.be/TWGn7ZKALa4)  | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%234%2C%20July%2029%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)| [send-many-memo](https://youtu.be/6Cg00QkSN4w) |
 
 ## Purpose
 
