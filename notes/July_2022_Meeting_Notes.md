@@ -1,0 +1,33 @@
+- Community Topics
+    - Sabby: We want to learn and listen from you all
+        - Experimenting every month
+        - Inviting ideas from you all
+        - What channels are the best for cmx? Blog, forum, discord?
+            - Is there anything you want to see more of less of
+    - John Dunnicliffe
+        - I’m pretty happy with you guys
+        - New to stacks, a couple months in
+        - Not a lot of code I can look at
+        - My focus: I have a website where painters can sell paintings, not digital. They asked about NFTs, and I decided to go with Stacks. I also use svelt.
+        - There’s plenty out there on the contracts
+        - Not enough on integrating contracts into a project
+        - “Mint an NFT”
+        - Stacks.js won’t work in svelt
+    - Friedger
+        - Stack Overflow
+        - Specific question, trust answers there
+    - Max E. - What was your experience?
+    - Sabby
+        - No longer have to spend cognitive effort on configuring a front end
+    - Q3 Product Focus
+        - Common themes across all products
+            - Hyperchains compatibility: Stacks.js, Clarinet
+            - Stacks 2.1 compatability
+            - Once the core products are ready, then we’ll move on to the user facing products
+            - API Level
+                - Maintaining four “9s” uptime
+                - Need resilient response time, less latency, higher throughput
+                - API and DevOps team hustling to upkeep
+                - Scalability aspect - extract core bits
+                - Need compute and resources attached to it
+            - Event Hooks
