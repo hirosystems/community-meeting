@@ -12,7 +12,7 @@ Hiro hosts a monthly community meeting on the fourth Thursday of the month at 16
 | 3           | 06/30/2022  |  [YouTube](https://youtu.be/1ISei6WPccg)  | [PDF](https://github.com/hirosystems/community-meeting/blob/d259c59fa9e6431e76b689cdc204894187551af7/slides/%233,%20June%2030%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)| [U2](https://www.youtube.com/watch?v=Va-yb_pnN1I) |
 | 4           | 07/29/2022  |  [YouTube](https://youtu.be/TWGn7ZKALa4)  | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%234%2C%20July%2029%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)| [send-many-memo](https://youtu.be/6Cg00QkSN4w) |
 | 5           | 08/25/2022  |  [YouTube](https://www.youtube.com/watch?v=XdXldweXY7Q)  | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%235%2C%20August%2025%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)| [Ryder Community Handles](https://www.youtube.com/watch?v=RbDs92kXu-M) |
-| 6           | 10/27/2022  |  [YouTube]()  | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%236%2C%20October%2027%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)| N/A |
+| 6           | 10/27/2022  |  [YouTube](https://www.youtube.com/watch?v=7-pFQkzFpWM)  | [PDF](https://github.com/hirosystems/community-meeting/blob/main/slides/%236%2C%20October%2027%202022%20-%20Hiro%20Developer%20Community%20Meeting.pdf)| None |
 
 ## Purpose
 
